@@ -1,0 +1,18 @@
+{
+  "name": "coverage-badge",
+  "version": "1.0.0",
+  "description": "Creates a simple code coverage badge to host anywhere",
+  "main": "index.js",
+  "bin": {
+    "coverage-badge": "index.js"
+  },
+  "scripts": {},
+  "keywords": ["badge", "code-coverage"],
+  "author": "Gilles De Mey <gilles.de.mey@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "badgs": "^1.1.1",
+    "coverage-percentage": "0.0.2",
+    "yargs": "^4.8.1"
+  }
+}

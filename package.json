@@ -1,5 +1,5 @@
 {
-  "name": "coverage-badge",
+  "name": "simple-coverage-badge",
   "version": "1.0.0",
   "description": "Creates a simple code coverage badge to host anywhere",
   "main": "index.js",

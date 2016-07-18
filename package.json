@@ -4,7 +4,7 @@
   "description": "Creates a simple code coverage badge to host anywhere",
   "main": "index.js",
   "bin": {
-    "coverage-badge": "index.js"
+    "coverage-badge": "./index.js"
   },
   "scripts": {},
   "keywords": ["badge", "code-coverage"],
